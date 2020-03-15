@@ -4,8 +4,8 @@ from setuptools import setup, find_packages
 setup(
     name="mixp", 
     version="0.0.2",
-    author="Rafael Vescovi",
-    author_email="ravescovi@gmail.com",
+    author="Casey Ellis",
+    author_email="cjellis@uchicago.edu",
     description="MSCA Class Package",
     long_description_content_type="text/markdown",
     url="https://github.com/ravescovi/mixpotatos",

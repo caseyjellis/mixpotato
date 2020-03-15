@@ -1,13 +1,14 @@
 # mixpotato
 Mix potato is a classroom module for python shenanigans
 
-# final result 
-raf[('lettuce', '00')][('lettuce', '01')][('tomato', '00')][('tomato', '01')][('tomato', '02')]
-
 ## Installation
 
 1. python setup.py install
 2. be happy
+
+## Final Result
+CaseyEllis{'lettuce': 1, 'tomato': 3, 'olive': 1}this took 0.0009951591491699219 seconds to run
+
 
 ## Requirements
 
